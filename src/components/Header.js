@@ -10,7 +10,7 @@ const Navbar = styled.nav`
   justify-content: space-between;
   align-items: center;
 `;
-
+//logo
 const Logo = styled(Link)`
   color: #fff;
   padding-left: 1rem;
@@ -19,7 +19,7 @@ const Logo = styled(Link)`
   font-weight: bold;
   font-style: italic;
 `;
-
+//navigation
 const NavItems = styled.div``;
 
 const NavbarLink = styled(Link)`
